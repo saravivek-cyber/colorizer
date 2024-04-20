@@ -1,4 +1,3 @@
-
 # Colorizer
 Black and white image colorization with OpenCV.
 ## Table of Content
@@ -9,8 +8,10 @@ Black and white image colorization with OpenCV.
   * [Installation And Run](#installation-and-run)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
+  * [Bug / Feature Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
+  * [License](#license)
   * [Credits](#credits)
 ## Demo
 ![Alt Text](https://j.gifs.com/2xVL2P.gif)
@@ -104,4 +105,3 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Credits
 - [“ Black and white image colorization with OpenCV and Deep Learning” by Dr. Adrian Rosebrok "](https://www.pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/) - This project wouldn't have been possible without these references.
 - [The official publication of Zhang et al.](http://richzhang.github.io/colorization/)
-
